@@ -9,7 +9,7 @@ using namespace std;
 
  int main(int argc,char* argv[]) {
  char ans = 'N';
-//Do while loop for going prompting user again
+//While loop for prompting user again
  do {
 
   if (argc > 1) {
